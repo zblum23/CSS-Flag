@@ -1,5 +1,5 @@
 div.box-1{
-    position:absolute;
+    position:fixed;
     background-color: red;
     height: 300px;
     width: 1446px;
@@ -7,7 +7,7 @@ div.box-1{
 
 }
 div.box-2{
-    position:absolute;
+    position:fixed;
     background-color: white;
     height: 300px;
     width: 1446px ;
@@ -15,14 +15,14 @@ div.box-2{
 }
 div.box-3{
 
-    position:absolute;
+    position:fixed;
     background-color: black;
     height: 250px;
     width: 1446px ;
     top: 66%;
 }
 div.photo{
-    position:absolute;
+    position:fixed;
     scale: 10%;
     top: -470px;
     left: 150px;
