@@ -1,0 +1,29 @@
+div.box-1{
+    position:absolute;
+    background-color: red;
+    height: 33.33%;
+    width: 100% ;
+    
+
+}
+div.box-2{
+    position:absolute;
+    background-color: white;
+    height: 33%;
+    width: 100% ;
+    top: 33%;
+}
+div.box-3{
+
+    position:absolute;
+    background-color: black;
+    height: 33.33%;
+    width: 100% ;
+    top: 66%;
+}
+div.photo{
+    position:absolute;
+    scale: 10%;
+    top: -65%;
+    left: 10%;
+}
